@@ -1,0 +1,11 @@
+{
+  "name": "with-observables",
+  "version": "1.0.0",
+  "description": "React HOC that use of RxJS observables for state management.",
+  "main": "withObservables.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.0",
+    "rxjs": "^6.0"
+  }
+}
