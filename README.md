@@ -4,10 +4,16 @@
 
 Redux has a ton of boilerplace, for benefits you probably don't need.  Instead use RxJS to replace Redux with your own simply coded state stores.  Then use this HOC to connect your state stores to your components.
 
-## Installation
+## Installation 
 
 ```bash
 npm install with-observables
+```
+
+## Import
+
+```js
+import withObservables from 'with-observables';
 ```
 
 ## API
