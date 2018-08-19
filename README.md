@@ -7,7 +7,7 @@ Redux has a ton of boilerplace, for benefits you probably don't need.  Instead u
 ## Installation
 
 ```bash
-npm install @cgross/with-observables
+npm install with-observables
 ```
 
 ## API
