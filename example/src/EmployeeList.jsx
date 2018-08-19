@@ -1,6 +1,6 @@
 import React from 'react';
 import employeeService from './EmployeeService';
-import withObservables from './withObservables.js';
+import withObservables from 'with-observables';
 
 const observables = {
   employees:employeeService.getEmployeesObservable()
